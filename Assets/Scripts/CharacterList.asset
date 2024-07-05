@@ -12,4 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e1bbeb060bc8374d96957fb1ecf999b, type: 3}
   m_Name: CharacterList
   m_EditorClassIdentifier: 
-  characters: []
+  characters:
+  - Health: 10
+    MaxHealth: 10
+    Name: Sub Zero
+  - Health: 50
+    MaxHealth: 100
+    Name: Angry Moneky
+  - Health: 1000
+    MaxHealth: 1000
+    Name: Darth Vader
