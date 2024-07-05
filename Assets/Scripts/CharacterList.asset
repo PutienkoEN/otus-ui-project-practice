@@ -13,12 +13,9 @@ MonoBehaviour:
   m_Name: CharacterList
   m_EditorClassIdentifier: 
   characters:
-  - Health: 10
-    MaxHealth: 10
+  - MaxHealth: 10
     Name: Sub Zero
-  - Health: 50
-    MaxHealth: 100
+  - MaxHealth: 100
     Name: Angry Moneky
-  - Health: 1000
-    MaxHealth: 1000
+  - MaxHealth: 1000
     Name: Darth Vader
